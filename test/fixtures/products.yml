@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  stt: MyString
+  name: MyString
+  amount: 1.5
+
+two:
+  stt: MyString
+  name: MyString
+  amount: 1.5
