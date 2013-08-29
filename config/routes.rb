@@ -1,4 +1,6 @@
 Sample::Application.routes.draw do
+  resources :microposts
+
   resources :products
 
   resources :users
